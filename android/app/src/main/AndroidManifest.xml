@@ -25,6 +25,7 @@
       </activity>
     </application>
     <queries>
+      <package android:name="woyou.aidlservice.jiuiv5" />
       <intent>
         <action android:name="android.intent.action.VIEW" />
         <!-- If you don't know the MIME type in advance, set "mimeType" to "*/*". -->
